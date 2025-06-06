@@ -183,7 +183,9 @@ export default function Home() {
         <div className="p-6 border-b border-gray-200">
           <div className="flex items-center gap-2 mb-2">
             <MapPin className="h-6 w-6 text-blue-600" />
-            <h1 className="text-2xl font-bold text-gray-900">Gey app</h1>
+            <h1 className="text-2xl font-bold text-gray-900">
+              Walking Directions App
+            </h1>
           </div>
           <p className="text-gray-600 text-sm">
             Plan your walking route by adding points of interest
